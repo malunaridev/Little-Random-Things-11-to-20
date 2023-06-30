@@ -1,0 +1,17 @@
+button {
+  width: 20rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-family: "Belanosima", sans-serif;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 5rem;
+  border: 0;
+  cursor: pointer;
+}
+
+.arrow {
+    height: 3rem;
+}
