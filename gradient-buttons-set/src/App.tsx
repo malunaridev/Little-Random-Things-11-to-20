@@ -37,7 +37,6 @@ const bgColors = {
 function App() {
   return (
     <>
-    <h1>Colorful Gradient Buttons</h1>
     <Button background={bgColors.Orange}/>
     <Button background={bgColors.Blue}/>
     <Button background={bgColors.Pinkish}/>

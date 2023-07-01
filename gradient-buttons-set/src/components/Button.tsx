@@ -1,5 +1,5 @@
 import "./button.css"
-import { Arrow } from "./Arrow"
+import  Arrow  from "../assets/arrow.png"
 
 type Props = {
     background: string;
